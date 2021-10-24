@@ -1,0 +1,8 @@
+VIGENERE CIPHER
+The Vigenere Cipher uses a keyword that helps vary the encryption. 
+The content and the keyword or both transformed into numbers (the respective index of the letters in the alphabet). 
+Make sure that if the key is shorter than the content, repeat the same sequence of numbers until they are the same length
+Add the numbers from content with the ones in the key
+Convert the result to their corresponding letters in the alphabet
+
+To decrypt, use the same solution but subtract the key from the content.
